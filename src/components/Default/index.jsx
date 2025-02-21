@@ -10,10 +10,10 @@ const Default = (props) => {
 	const context = useOutletContext()
 	const [page, setPage] = useState(1)
 	const [totalItems, setTotalItems] = useState([])
-	const [order, setOrder] = useState("Ranking")
+	const [order, setOrder] = useState("")
 	const [selection, setSelection] = useState(props.customSelection ? props.customSelection : "")
 	const itemsPerPage = 6
-	console.log("called")
+
 	useEffect(() => {
 		let currSelection = window.location.pathname.replace("/","")
 		currSelection = currSelection ? currSelection : "default"
@@ -79,7 +79,7 @@ const Default = (props) => {
 			<></>
 		)
 	}
-	console.log(order)
+
 	return (
 		<>
 		<div className='title__cards' ref={topRef}>
