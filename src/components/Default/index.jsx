@@ -71,9 +71,8 @@ const Default = (props) => {
 
 	useEffect(() => {
 	const getSortedItems = () => {
-        console.log(totalItems.sort((a,b) => a["preco"] > b["preco"]) === totalItems.sort((a,b) => a["preco"] < b["preco"]))
-		if (order === "Menor Preço") return totalItems.sort((a,b) => a["preco"] > b["preco"])
-		if (order === "Maior Preço") return totalItems.sort((a,b) => a["preco"] < b["preco"])
+		if (order === "Menor Preço") return totalItems.sort((a,b) => a["preco"] > b["preco"] ? 1 : -1)
+		if (order === "Maior Preço") return totalItems.sort((a,b) => a["preco"] < b["preco"] ? 1 : -1)
 		return totalItems
 	}
 	setTotalItems(getSortedItems())
