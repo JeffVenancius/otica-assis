@@ -13,7 +13,7 @@ const Default = (props) => {
 	const [order, setOrder] = useState("Ranking")
 	const [selection, setSelection] = useState(props.customSelection ? props.customSelection : "")
 	const itemsPerPage = 6
-
+	console.log("called")
 	useEffect(() => {
 		let currSelection = window.location.pathname.replace("/","")
 		currSelection = currSelection ? currSelection : "default"
