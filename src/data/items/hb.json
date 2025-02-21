@@ -1,0 +1,128 @@
+{
+    "10140710": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.010459 0243",
+        "preco": 525,
+        "precoPromo": 525,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KLNRkyX/image.jpg",
+            "https://i.ibb.co/tmRQDyY/image.jpg"
+        ]
+    },
+    "10140711": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.010492 C.0356",
+        "preco": 645,
+        "precoPromo": 645,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5cLNdtT/image.jpg",
+            "https://i.ibb.co/8NndKrk/image.jpg"
+        ]
+    },
+    "10140686": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.93055 0243",
+        "preco": 481,
+        "precoPromo": 481,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/p21B1jK/image.jpg",
+            "https://i.ibb.co/s3dWW0s/image.jpg"
+        ]
+    },
+    "10136205": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.010399 C0613",
+        "preco": 1345,
+        "precoPromo": 1345,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/w42vZYJ/image.jpg",
+            "https://i.ibb.co/d5SQQvW/image.jpg"
+        ]
+    },
+    "10140564": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.010459 0302",
+        "preco": 525,
+        "precoPromo": 525,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v1pDW7n/image.jpg",
+            "https://i.ibb.co/WKwkKjL/image.jpg"
+        ]
+    },
+    "10140655": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.0255 0243",
+        "preco": 466,
+        "precoPromo": 466,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0Dqbq7D/image.jpg",
+            "https://i.ibb.co/Mn1Y1QV/image.jpg"
+        ]
+    },
+    "10137942": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.010411 C0630",
+        "preco": 543,
+        "precoPromo": 543,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/p0th1h8/image.jpg",
+            "https://i.ibb.co/Pmdrbv0/image.jpg"
+        ]
+    },
+    "10140541": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "M.90109 001",
+        "preco": 499,
+        "precoPromo": 499,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xz6F2Rr/image.jpg",
+            "https://i.ibb.co/rk84rhg/image.jpg"
+        ]
+    },
+    "10136079": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Hb",
+        "tipoDeCard": "Com Preço",
+        "modelo": "FREAK 297",
+        "preco": 497,
+        "precoPromo": 497,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/PwRfrwf/image.jpg",
+            "https://i.ibb.co/5YRhG81/image.jpg"
+        ]
+    }
+}

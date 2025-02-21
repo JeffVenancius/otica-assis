@@ -1,0 +1,93 @@
+{
+    "on design 7": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "On Design",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 349,
+        "precoPromo": 349,
+        "wppDesc": "n° 7",
+        "imgs": [
+					"https://i.ibb.co/Y7d70Yrv/0-39.jpg"
+        ]
+    },
+    "on design 6": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "On Design",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 349,
+        "precoPromo": 349,
+        "wppDesc": "n° 7",
+        "imgs": [
+					"https://i.ibb.co/6R819Mkj/0-37.jpg"
+        ]
+    },
+    "on design 5": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "On Design",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 349,
+        "precoPromo": 349,
+        "wppDesc": "n° 5",
+        "imgs": [
+					"https://i.ibb.co/LzmZ5mnq/0-33.jpg"
+        ]
+    },
+    "on design 4": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "On Design",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 349,
+        "precoPromo": 349,
+        "wppDesc": "n° 4",
+        "imgs": [
+					"https://i.ibb.co/8gHBCvZr/0-32.jpg"
+        ]
+    },
+    "on design 3": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "On Design",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 349,
+        "precoPromo": 349,
+        "wppDesc": "n° 3",
+        "imgs": [
+					"https://i.ibb.co/8gHBCvZr/0-32.jpg"
+        ]
+    },
+    "on design 2": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "On Design",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 349,
+        "precoPromo": 349,
+        "wppDesc": "n° 2",
+        "imgs": [
+					"https://i.ibb.co/t1K1Wgr/0-27.jpg"
+        ]
+    },
+    "on design 1": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "On Design",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 349,
+        "precoPromo": 349,
+        "wppDesc": "n° 1",
+        "imgs": [
+					"https://i.ibb.co/mCs9nWNd/0-24.jpg"
+        ]
+    }
+}

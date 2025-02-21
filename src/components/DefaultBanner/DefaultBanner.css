@@ -1,0 +1,26 @@
+.header__banner--mobile {
+	display: none;
+	width: 100vw;
+	aspect-ratio: 1.66667 / 1;
+}
+
+.header__banner--pc {
+	width: 100vw;
+	aspect-ratio: 3.33333 / 1;
+}
+
+@media (max-width: 1150px) {
+	.header__banner--pc {
+		display: none;
+	}
+	.header__banner--mobile {
+		display: unset;
+		object-fit: contain;
+	}
+}
+
+@media (max-width: 480px) {
+	.header__banner--mobile {
+	margin: 2% 0;
+	}
+}

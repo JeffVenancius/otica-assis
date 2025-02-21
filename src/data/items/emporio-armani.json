@@ -1,0 +1,422 @@
+{
+    "10115202": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3069 5063",
+        "preco": 1080,
+        "precoPromo": 1080,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gPLZM6j/image.jpg",
+            "https://i.ibb.co/wgDJxDn/image.jpg"
+        ]
+    },
+    "10137476": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1138 3018",
+        "preco": 775,
+        "precoPromo": 775,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/wJ1bHxb/image.jpg",
+            "https://i.ibb.co/KDDVBb1/image.jpg"
+        ]
+    },
+    "10140399": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1149 3001",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JQHmZR8/image.jpg",
+            "https://i.ibb.co/HxF7KxB/image.jpg"
+        ]
+    },
+    "10140400": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1150 3268",
+        "preco": 1186,
+        "precoPromo": 1186,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/SRx0Cbw/image.jpg",
+            "https://i.ibb.co/VV5HYKz/image.jpg"
+        ]
+    },
+    "10138212": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3223U 5026",
+        "preco": 997,
+        "precoPromo": 997,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Lhf3Y7F/image.jpg",
+            "https://i.ibb.co/rGVc1Zs/image.jpg"
+        ]
+    },
+    "10140401": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3227 6053",
+        "preco": 888,
+        "precoPromo": 888,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YTF9Df9/image.jpg",
+            "https://i.ibb.co/1Tv7w1w/image.jpg"
+        ]
+    },
+    "10141483": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3233 6103",
+        "preco": 1015,
+        "precoPromo": 1015,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gVpbVqm/image.jpg",
+            "https://i.ibb.co/gTRyLC6/image.jpg"
+        ]
+    },
+    "10141478": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3238U 6098",
+        "preco": 944,
+        "precoPromo": 944,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rmqN6X9/image.jpg",
+            "https://i.ibb.co/c8YYHNR/image.jpg"
+        ]
+    },
+    "10141479": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3239 5017",
+        "preco": 944,
+        "precoPromo": 944,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4ffQvPS/image.jpg",
+            "https://i.ibb.co/qrjmdDX/image.jpg"
+        ]
+    },
+    "10142177": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4212U 5001/71",
+        "preco": 1079,
+        "precoPromo": 1079,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/F5STcmQ/image.jpg",
+            "https://i.ibb.co/vHvjqqt/image.jpg"
+        ]
+    },
+    "10134745": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3192 5911",
+        "preco": 729,
+        "precoPromo": 729,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/3hN0f3y/image.jpg",
+            "https://i.ibb.co/nj6tfwm/image.jpg"
+        ]
+    },
+    "10136023": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4186 5362/71",
+        "preco": 1079,
+        "precoPromo": 1079,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Nn3R8Cw/image.jpg",
+            "https://i.ibb.co/MZVKrst/image.jpg"
+        ]
+    },
+    "10136024": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4187 5029/87",
+        "preco": 1079,
+        "precoPromo": 1079,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pKkk5wY/image.jpg",
+            "https://i.ibb.co/n8svNfX/image.jpg"
+        ]
+    },
+    "10132607": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4160 5042/1W",
+        "preco": 1150,
+        "precoPromo": 1150,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FX8dm8x/image.jpg",
+            "https://i.ibb.co/NCtRMPq/image.jpg"
+        ]
+    },
+    "10136538": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1139 3001",
+        "preco": 1029,
+        "precoPromo": 1029,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/DPJDvMN/image.jpg",
+            "https://i.ibb.co/bdCB8BW/image.jpg"
+        ]
+    },
+    "10130862": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1105 3014",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HPJFYPd/image.jpg",
+            "https://i.ibb.co/JjYXQ24/image.jpg"
+        ]
+    },
+    "10143092": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1165 3001",
+        "preco": 1036,
+        "precoPromo": 1036,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/S0JVsy1/image.jpg",
+            "https://i.ibb.co/KwFpfxv/image.jpg"
+        ]
+    },
+    "10143093": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3246 5001",
+        "preco": 945,
+        "precoPromo": 945,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cJyW828/image.jpg",
+            "https://i.ibb.co/6H8zWMY/image.jpg"
+        ]
+    },
+    "10143088": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3248 5017",
+        "preco": 1085,
+        "precoPromo": 1085,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bv05Typ/image.jpg",
+            "https://i.ibb.co/3RQs8f8/image.jpg"
+        ]
+    },
+    "10142370": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4029 5042/71",
+        "preco": 1026,
+        "precoPromo": 1026,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/k4nv3V0/image.jpg",
+            "https://i.ibb.co/NsSS1F5/image.jpg"
+        ]
+    },
+    "10128013": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1059 3179",
+        "preco": 962,
+        "precoPromo": 962,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vPrnLb5/image.jpg",
+            "https://i.ibb.co/pQj5W0Y/image.jpg"
+        ]
+    },
+    "10113020": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1027 3001",
+        "preco": 940,
+        "precoPromo": 940,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/F4BN3Tz/image.jpg",
+            "https://i.ibb.co/3cLv42H/image.jpg"
+        ]
+    },
+    "10130833": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1041 3094",
+        "preco": 1116,
+        "precoPromo": 1116,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/hFsRfc4/image.jpg",
+            "https://i.ibb.co/jymDfgP/image.jpg"
+        ]
+    },
+    "10123342": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1052 3155",
+        "preco": 985,
+        "precoPromo": 985,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Z6DJDM8/image.jpg",
+            "https://i.ibb.co/tXbrZM6/image.jpg"
+        ]
+    },
+    "10131102": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1059 3001",
+        "preco": 935,
+        "precoPromo": 935,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/88rmcHT/image.jpg",
+            "https://i.ibb.co/Rhmkwm4/image.jpg"
+        ]
+    },
+    "10129801": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA1079 3094",
+        "preco": 1108,
+        "precoPromo": 1108,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Pmd1hjj/image.jpg",
+            "https://i.ibb.co/Z8JCc8T/image.jpg"
+        ]
+    },
+    "10126803": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3147 5754",
+        "preco": 1006,
+        "precoPromo": 1006,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xjTcp1q/image.jpg",
+            "https://i.ibb.co/NVCSVnm/image.jpg"
+        ]
+    },
+    "10131533": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3177 5042",
+        "preco": 923,
+        "precoPromo": 923,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HtFzCzd/image.jpg",
+            "https://i.ibb.co/y8Jz9mr/image.jpg"
+        ]
+    },
+    "10138211": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA3218 5879",
+        "preco": 877,
+        "precoPromo": 877,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6DFj4MC/image.jpg",
+            "https://i.ibb.co/1vkY2K3/image.jpg"
+        ]
+    },
+    "10113251": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Emporio Armani",
+        "tipoDeCard": "Com Preço",
+        "modelo": "EA4029 5063/8G",
+        "preco": 997,
+        "precoPromo": 997,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pzV5C8X/image.jpg",
+            "https://i.ibb.co/hFSFRBb/image.jpg"
+        ]
+    }
+}

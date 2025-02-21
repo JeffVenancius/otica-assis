@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+	padding: 0;
+	height: 100vh;
+	min-height: 100vh;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../public/fonts/Poppins/Poppins-Bold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: bold;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../public/fonts/Poppins/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: bold;
+}
+
+@font-face {
+	font-family: 'LeagueSpartan';
+    src: url('../public/fonts/League_Spartan/static/LeagueSpartan-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'LeagueSpartan';
+    src: url('../public/fonts/League_Spartan/static/LeagueSpartan-Bold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: bold;
+}
+
+@font-face {
+	font-family: 'LeagueSpartan';
+    src: url('../public/fonts/League_Spartan/static/LeagueSpartan-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: bold;
+}
+
+
+body {
+	font-family: Poppins;
+}

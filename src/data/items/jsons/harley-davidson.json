@@ -1,0 +1,72 @@
+{
+    "10130662": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD0787 008",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/drsggrH/image.jpg",
+            "https://i.ibb.co/HxqFDTx/image.jpg"
+        ]
+    },
+    "10136652": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD2047 32Q",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HFWtG3K/image.jpg",
+            "https://i.ibb.co/Q83Xxqg/image.jpg"
+        ]
+    },
+    "10136885": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD0770 002",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/xXDVz59/image.jpg",
+            "https://i.ibb.co/D1brPZj/image.jpg"
+        ]
+    },
+    "10136874": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD1019 008",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sghYFmc/image.jpg",
+            "https://i.ibb.co/2tDmsVN/image.jpg"
+        ]
+    },
+    "10136887": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Harley Davidson",
+        "tipoDeCard": "Com Preço",
+        "modelo": "HD1027 005",
+        "preco": 790,
+        "precoPromo": 790,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6gJMJZ9/image.jpg",
+            "https://i.ibb.co/b76m0g3/image.jpg"
+        ]
+    }
+}

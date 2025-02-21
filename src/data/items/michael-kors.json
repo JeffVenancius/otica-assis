@@ -1,0 +1,58 @@
+{
+    "10140431": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2195U 394413",
+        "preco": 980,
+        "precoPromo": 980,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mBBNT3G/image.jpg",
+            "https://i.ibb.co/wsbq7X3/image.jpg"
+        ]
+    },
+    "10140432": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2199 395213",
+        "preco": 1299,
+        "precoPromo": 1299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/2nd5kZh/image.jpg",
+            "https://i.ibb.co/PW1Cz6k/image.jpg"
+        ]
+    },
+    "10140433": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK2201 39468H",
+        "preco": 1299,
+        "precoPromo": 1299,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/cNzDZfp/image.jpg",
+            "https://i.ibb.co/5c0v8HF/image.jpg"
+        ]
+    },
+    "10140661": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Michael Kors",
+        "tipoDeCard": "Com Preço",
+        "modelo": "MK3072 1018",
+        "preco": 1236,
+        "precoPromo": 1236,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/4MXyML6/image.jpg",
+            "https://i.ibb.co/hdBMCb6/image.jpg"
+        ]
+    }
+}

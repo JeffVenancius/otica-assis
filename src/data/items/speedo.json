@@ -1,0 +1,282 @@
+{
+    "10134425": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "ACE2 A12",
+        "preco": 332,
+        "precoPromo": 332,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/1ZJy1fB/image.jpg",
+            "https://i.ibb.co/kmqCZwd/image.jpg"
+        ]
+    },
+    "10136380": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BURITI A01",
+        "preco": 359,
+        "precoPromo": 359,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f1N9Gyn/image.jpg",
+            "https://i.ibb.co/BcrnThH/image.jpg"
+        ]
+    },
+    "10136432": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "CAPRI3 A01",
+        "preco": 379,
+        "precoPromo": 379,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tBHSpH9/image.jpg",
+            "https://i.ibb.co/10mRfMC/image.jpg"
+        ]
+    },
+    "10137862": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "ECOWAVE5 A11",
+        "preco": 390,
+        "precoPromo": 390,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Tm7hbL9/image.jpg",
+            "https://i.ibb.co/wSGHqvV/image.jpg"
+        ]
+    },
+    "10137853": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "ECOWAVE5 D11",
+        "preco": 344,
+        "precoPromo": 344,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fYNqcSr/image.jpg",
+            "https://i.ibb.co/Kb40RsF/image.jpg"
+        ]
+    },
+    "10138330": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "ECOWAVE6 A11",
+        "preco": 379,
+        "precoPromo": 379,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/XzFMP9V/image.jpg",
+            "https://i.ibb.co/w4rWZ07/image.jpg"
+        ]
+    },
+    "10135294": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP1095A 02C",
+        "preco": 325,
+        "precoPromo": 325,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/J73FVRJ/image.jpg",
+            "https://i.ibb.co/LdHPMQP/image.jpg"
+        ]
+    },
+    "10112449": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP1301 02D",
+        "preco": 325,
+        "precoPromo": 325,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f9ZZvTZ/image.jpg",
+            "https://i.ibb.co/V98qmVg/image.jpg"
+        ]
+    },
+    "10112444": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP1313 02A",
+        "preco": 325,
+        "precoPromo": 325,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gD6LBT5/image.jpg",
+            "https://i.ibb.co/MB6n2x1/image.jpg"
+        ]
+    },
+    "10135253": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP1313 02C",
+        "preco": 325,
+        "precoPromo": 325,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/q1bdSMm/image.jpg",
+            "https://i.ibb.co/5cSJNsZ/image.jpg"
+        ]
+    },
+    "10135331": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP1336 02B",
+        "preco": 325,
+        "precoPromo": 325,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/vJ7rZX3/image.jpg",
+            "https://i.ibb.co/s2sgbnJ/image.jpg"
+        ]
+    },
+    "10138326": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP1386 09A",
+        "preco": 603,
+        "precoPromo": 603,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5xd5gv5/image.jpg",
+            "https://i.ibb.co/KsfGsPW/image.jpg"
+        ]
+    },
+    "10139718": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP4100 H11",
+        "preco": 603,
+        "precoPromo": 603,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dQ5TrbZ/image.jpg",
+            "https://i.ibb.co/fdkj9q6/image.jpg"
+        ]
+    },
+    "10139724": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP4101 H11",
+        "preco": 565,
+        "precoPromo": 565,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YP9cWGz/image.jpg",
+            "https://i.ibb.co/hMNy08R/image.jpg"
+        ]
+    },
+    "10134725": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP6104IN D01",
+        "preco": 337,
+        "precoPromo": 337,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KjvBJcv/image.jpg",
+            "https://i.ibb.co/w6VVqPp/image.jpg"
+        ]
+    },
+    "10131276": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP7017 H01",
+        "preco": 360,
+        "precoPromo": 360,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LtzNLYj/image.jpg",
+            "https://i.ibb.co/KGh6q9X/image.jpg"
+        ]
+    },
+    "10137330": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP7036 H01",
+        "preco": 339,
+        "precoPromo": 339,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/K5FsHgv/image.jpg",
+            "https://i.ibb.co/3y4nKn0/image.jpg"
+        ]
+    },
+    "10136370": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "BOUNCE1 R11",
+        "preco": 397,
+        "precoPromo": 397,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CpyDc1R/image.jpg",
+            "https://i.ibb.co/V9V5FcC/image.jpg"
+        ]
+    },
+    "10139727": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP4093 D01",
+        "preco": 486,
+        "precoPromo": 486,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Gstpk0J/image.jpg",
+            "https://i.ibb.co/5WQBJHq/image.jpg"
+        ]
+    },
+    "10135296": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Speedo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "SP6008 B10",
+        "preco": 325,
+        "precoPromo": 325,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/8KQZjxy/image.jpg",
+            "https://i.ibb.co/F0NjVzq/image.jpg"
+        ]
+    }
+}

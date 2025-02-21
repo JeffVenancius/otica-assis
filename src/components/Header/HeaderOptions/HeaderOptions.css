@@ -1,0 +1,107 @@
+.header__options--container {
+	background-color: #fff;
+	opacity: 0;
+	width: 10%;
+	height: 0;
+	overflow-y: scroll;
+	position: absolute;
+	margin-left: 5px;
+	margin-top: 0;
+	z-index: 1000;
+}
+
+.header__options--container .header__buttons {
+	padding: 3px 12px;
+	margin: 8px 0;
+	margin-top: -2px;
+	margin-bottom: 10px;
+	position: relative;
+	text-align: left;
+}
+
+.header__nav--menu {
+	border: 2px solid #f16122;
+	border-radius: 32px;
+}
+
+
+.header__options:hover>.header__options--container {
+	opacity: 1;
+	height: 198px;
+	border-right: 2px solid #f16122;
+	border-left: 2px solid #f16122;
+	border-top: 2px solid #f16122;
+	border-bottom: 2px solid #f16122;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+}
+
+.header__options:hover>.header__options--container--size--4 {
+	height: 160px;
+}
+
+.header__options:hover>.header__options--container--size--3 {
+	height: 120px;
+}
+
+
+.header__options:hover>.header__options--container--size--2 {
+	height: 82px;
+}
+
+.header__options:hover>.header__options--container--size--2 {
+	height: 44px;
+}
+
+.header__buttons--first:hover {
+	margin: 2px;
+	border: none;
+}
+
+
+@media (max-width: 1064px) {
+	.header__buttons {
+		padding: 0 1.2vw;
+	}
+	.header__nav--menu {
+		flex-basis: 55%;
+	}
+	.header__options--first--active > .header__options--container {
+		opacity: 1;
+		height: calc(100vh - 158px);
+		width: 17%;
+		border: 2px solid #f16122;
+		background-color: white;
+		margin-top: 5px;
+	}
+}
+
+@media (max-width: 880px) {
+	.header__nav--menu {
+		flex-basis: unset;
+		width: 100%;
+		border-left: none;
+		border-right: none;
+		border-radius: unset;
+		height: 40px;
+		justify-content: space-evenly;
+		align-items: center;
+	}
+	.header__options--first--active > .header__options--container {
+		width: 25%;
+	}
+}
+
+@media (max-width: 480px) {
+	.header__options--first--active > .header__options--container {
+		width: 60%;
+		height: 100vh;
+		top: 0;
+		right: 0;
+		padding-top: 15%;
+	}
+	.header__options--first--active > .header__options--container .header__buttons {
+		text-align: center;
+	}
+}

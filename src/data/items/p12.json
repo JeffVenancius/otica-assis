@@ -1,0 +1,262 @@
+{
+    "p12 9": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 9",
+        "imgs": [
+					"https://i.ibb.co/fGF3TvXY/0-56.jpg"
+        ]
+    },
+    "p12 7": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 7",
+        "imgs": [
+					"https://i.ibb.co/RTqwTs5c/0-54.jpg"
+        ]
+    },
+    "p12 20": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 20",
+        "imgs": [
+					"https://i.ibb.co/LdThnzyf/0-67.jpg"
+        ]
+    },
+    "p12 14": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 14",
+        "imgs": [
+					"https://i.ibb.co/Jw21TK87/0-61.jpg"
+        ]
+    },
+    "p12 10": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 10",
+        "imgs": [
+					"https://i.ibb.co/VYm42mDv/0-57.jpg"
+        ]
+    },
+    "p12 8": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 8",
+        "imgs": [
+					"https://i.ibb.co/XrhNcdR2/0-55.jpg"
+        ]
+    },
+    "p12 6": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 6",
+        "imgs": [
+					"https://i.ibb.co/zVKrHyDN/0-53.jpg"
+        ]
+    },
+    "p12 5": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 5",
+        "imgs": [
+					"https://i.ibb.co/VYpK9wGN/0-52.jpg"
+        ]
+    },
+    "p12 4": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 4",
+        "imgs": [
+					"https://i.ibb.co/Wvp5bzsW/0-51.jpg"
+        ]
+    },
+    "p12 3": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 3",
+        "imgs": [
+					"https://i.ibb.co/pv7Xxp8d/0-50.jpg"
+        ]
+    },
+    "p12 2": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 2",
+        "imgs": [
+					"https://i.ibb.co/W4q2p1dK/0-49.jpg"
+        ]
+    },
+    "p12 19": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 19",
+        "imgs": [
+					"https://i.ibb.co/zTMPMRwP/0-66.jpg"
+        ]
+    },
+    "p12 18": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 18",
+        "imgs": [
+					"https://i.ibb.co/fVSSZ8G9/0-65.jpg"
+        ]
+    },
+    "p12 17": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 17",
+        "imgs": [
+					"https://i.ibb.co/HLfwvmB7/0-64.jpg"
+        ]
+    },
+    "p12 16": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 16",
+        "imgs": [
+					"https://i.ibb.co/mCbv6k3f/0-63.jpg"
+        ]
+    },
+    "p12 15": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 15",
+        "imgs": [
+					"https://i.ibb.co/pj8Lq7JN/0-62.jpg"
+        ]
+    },
+    "p12 13": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 13",
+        "imgs": [
+					"https://i.ibb.co/s9qTLLZj/0-60.jpg"
+        ]
+    },
+    "p12 12": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 12",
+        "imgs": [
+					"https://i.ibb.co/23rmvT58/0-59.jpg"
+        ]
+    },
+    "p12 11": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 11",
+        "imgs": [
+					"https://i.ibb.co/5hryFqSc/0-58.jpg"
+        ]
+    },
+    "p12 1": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 11",
+        "imgs": [
+					"https://i.ibb.co/JFt72Fz4/0-48.jpg"
+        ]
+    }
+}

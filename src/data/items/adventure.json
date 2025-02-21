@@ -1,0 +1,132 @@
+{
+    "adventure 7": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 7",
+        "imgs": [
+					"https://i.ibb.co/VZG6Km6/0-19.jpg"
+				]
+    },
+    "adventure 2": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 7",
+        "imgs": [
+					"https://i.ibb.co/LXXfzKL5/0-10.jpg"
+				]
+    },
+    "adventure 9": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 9",
+        "imgs": [
+					"https://i.ibb.co/hxjhL6DF/0-21.jpg"
+				]
+    },
+    "adventure 8": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 8",
+        "imgs": [
+					"https://i.ibb.co/7dVMFF6T/0-20.jpg"
+				]
+    },
+    "adventure 6": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 6",
+        "imgs": [
+					"https://i.ibb.co/RVBwKwY/0-18.jpg"
+				]
+    },
+    "adventure 5": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 5",
+        "imgs": [
+					"https://i.ibb.co/mrwH57wK/0-17.jpg"
+				]
+    },
+    "adventure 4": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 4",
+        "imgs": [
+					"https://i.ibb.co/XrdrKddX/0-12.jpg"
+				]
+    },
+    "adventure 3": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 3",
+        "imgs": [
+					"https://i.ibb.co/G4k7HfQw/0-11.jpg"
+				]
+    },
+    "adventure 10": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 10",
+        "imgs": [
+					"https://i.ibb.co/11Q0gh5/0-23.jpg"
+				]
+    },
+    "adventure 1": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Adventure",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 289,
+        "precoPromo": 289,
+        "wppDesc": "n° 1",
+        "imgs": [
+					"https://i.ibb.co/PZ9RzwPj/0-5.jpg"
+				]
+    }
+}

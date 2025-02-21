@@ -1,0 +1,33 @@
+{
+	"Seleções": [
+		"Oslo",
+		"P12",
+		"On Design",
+		"Adventure",
+		"Ana Hickmann",
+		"Armani Exchange",
+		"Arnette",
+		"Bulget",
+		"Emporio Armani",
+		"Harley Davidson",
+		"HB",
+		"Kipling",
+		"Michael Kors",
+		"Nike",
+		"Ray Ban",
+		"Speedo",
+		"Victor Hugo",
+		"Vogue",
+		"Baratinhos"
+	],
+	"Tipo":[
+		"Óculos de Grau",
+		"Óculos Clip On",
+		"Óculos de Sol"
+	],
+	"Gênero": [
+		"Másculino",
+		"Feminino",
+		"Unissex"
+	]
+}

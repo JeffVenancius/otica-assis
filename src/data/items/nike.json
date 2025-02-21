@@ -1,0 +1,16 @@
+{
+    "10131882": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Nike",
+        "tipoDeCard": "Com Preço",
+        "modelo": "7253 205",
+        "preco": 687,
+        "precoPromo": 687,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gvqbskw/image.jpg",
+            "https://i.ibb.co/0f0n8Nx/image.jpg"
+        ]
+    }
+}

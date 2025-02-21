@@ -1,0 +1,772 @@
+{
+    "10135215": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1181 04D",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0qP3cz4/image.jpg",
+            "https://i.ibb.co/ctQc89Q/image.jpg"
+        ]
+    },
+    "10135236": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1284 15A",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/5Ww3Lnq/image.jpg",
+            "https://i.ibb.co/P4CfNKM/image.jpg"
+        ]
+    },
+    "10135304": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1196 08C",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sjJVb0D/image.jpg",
+            "https://i.ibb.co/HCSxrfT/image.jpg"
+        ]
+    },
+    "10139051": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60051 C01",
+        "preco": 1078,
+        "precoPromo": 1078,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mD4Js46/image.jpg",
+            "https://i.ibb.co/HT5KDGx/image.jpg"
+        ]
+    },
+    "10138894": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH10009 09A",
+        "preco": 765,
+        "precoPromo": 765,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tpN2SvD/image.jpg",
+            "https://i.ibb.co/2Fxm70t/image.jpg"
+        ]
+    },
+    "10137379": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH10017 04A",
+        "preco": 659,
+        "precoPromo": 659,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/y4xRycs/image.jpg",
+            "https://i.ibb.co/6DWRD9g/image.jpg"
+        ]
+    },
+    "10137234": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH10017 04B",
+        "preco": 659,
+        "precoPromo": 659,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tx6C5cR/image.jpg",
+            "https://i.ibb.co/tDv7cYM/image.jpg"
+        ]
+    },
+    "10137243": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH10017 09A",
+        "preco": 659,
+        "precoPromo": 659,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/dbFKLjs/image.jpg",
+            "https://i.ibb.co/c6jqbnX/image.jpg"
+        ]
+    },
+    "10135314": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1088 04F",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/f8JyZHy/image.jpg",
+            "https://i.ibb.co/p30MKX5/image.jpg"
+        ]
+    },
+    "10135256": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1088 15A",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/C0X9hjv/image.jpg",
+            "https://i.ibb.co/nrcjSSF/image.jpg"
+        ]
+    },
+    "10135279": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1123 13A",
+        "preco": 665,
+        "precoPromo": 665,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/v1jxZXk/image.jpg",
+            "https://i.ibb.co/p49g5hX/image.jpg"
+        ]
+    },
+    "10103222": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1154 05B",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/0shYb43/image.jpg",
+            "https://i.ibb.co/RNZcdSX/image.jpg"
+        ]
+    },
+    "10103841": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1164 08C",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/CsTg7Sg/image.jpg",
+            "https://i.ibb.co/n3kHvD0/image.jpg"
+        ]
+    },
+    "10135213": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1181 04C",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/54jQqbJ/image.jpg",
+            "https://i.ibb.co/SsTfJnQ/image.jpg"
+        ]
+    },
+    "10135273": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1181 04T",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/K2L40mw/image.jpg",
+            "https://i.ibb.co/grkWpxf/image.jpg"
+        ]
+    },
+    "10104904": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1189 05B",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/L9rbBmP/image.jpg",
+            "https://i.ibb.co/qdRCdsM/image.jpg"
+        ]
+    },
+    "10135317": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1190 04F",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/LzXCKMW/image.jpg",
+            "https://i.ibb.co/nMkjNJw/image.jpg"
+        ]
+    },
+    "10104911": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1197 04A",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/H47m4jP/image.jpg",
+            "https://i.ibb.co/BcccXdp/image.jpg"
+        ]
+    },
+    "10107086": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1209 05A",
+        "preco": 665,
+        "precoPromo": 665,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pRHDq50/image.jpg",
+            "https://i.ibb.co/8gLLXGr/image.jpg"
+        ]
+    },
+    "10135223": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1212 05A",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/THGK01X/image.jpg",
+            "https://i.ibb.co/hH3KGxm/image.jpg"
+        ]
+    },
+    "10135270": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1215 04C",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r2XdWwk/image.jpg",
+            "https://i.ibb.co/HNk7HtW/image.jpg"
+        ]
+    },
+    "10135263": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1239 04A",
+        "preco": 550,
+        "precoPromo": 550,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gDP4Jd3/image.jpg",
+            "https://i.ibb.co/pxt3hbM/image.jpg"
+        ]
+    },
+    "10135306": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1239 07B",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/rG7NkFr/image.jpg",
+            "https://i.ibb.co/MkwPGyR/image.jpg"
+        ]
+    },
+    "10135218": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1239 08B",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/M2LpBBc/image.jpg",
+            "https://i.ibb.co/280dbTC/image.jpg"
+        ]
+    },
+    "10135545": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1249 08B",
+        "preco": 627,
+        "precoPromo": 627,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/zGXkCs6/image.jpg",
+            "https://i.ibb.co/DpCHdms/image.jpg"
+        ]
+    },
+    "10135230": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1255 06D",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/bHPBcTd/image.jpg",
+            "https://i.ibb.co/XfnbyvR/image.jpg"
+        ]
+    },
+    "10135212": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1261 02A",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/KFPvxNP/image.jpg",
+            "https://i.ibb.co/Z1cLGZS/image.jpg"
+        ]
+    },
+    "10135266": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1266 05B",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/x7S1zqt/image.jpg",
+            "https://i.ibb.co/Tq1xq6y/image.jpg"
+        ]
+    },
+    "10135220": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1268 04B",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/VCSWMFG/image.jpg",
+            "https://i.ibb.co/Z6FMNj4/image.jpg"
+        ]
+    },
+    "10135214": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1284 04B",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/qCgzptq/image.jpg",
+            "https://i.ibb.co/vddTy2n/image.jpg"
+        ]
+    },
+    "10135255": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1284 06A",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kq2NPwQ/image.jpg",
+            "https://i.ibb.co/MGFNN7s/image.jpg"
+        ]
+    },
+    "10135257": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1346 07A",
+        "preco": 597,
+        "precoPromo": 597,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/HdPdYxc/image.jpg",
+            "https://i.ibb.co/JjVBbmB/image.jpg"
+        ]
+    },
+    "10139716": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1381B 04A",
+        "preco": 810,
+        "precoPromo": 810,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/YZKG65K/image.jpg",
+            "https://i.ibb.co/wh991WK/image.jpg"
+        ]
+    },
+    "10139719": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH1381B 09A",
+        "preco": 810,
+        "precoPromo": 810,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/9tpNYgL/image.jpg",
+            "https://i.ibb.co/nkY8t15/image.jpg"
+        ]
+    },
+    "10134327": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH3231N G21",
+        "preco": 722,
+        "precoPromo": 722,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/tmmjSnC/image.jpg",
+            "https://i.ibb.co/ZJBjCJV/image.jpg"
+        ]
+    },
+    "10135313": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60001 N01",
+        "preco": 695,
+        "precoPromo": 695,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/fGm8V3V/image.jpg",
+            "https://i.ibb.co/GHWJdSs/image.jpg"
+        ]
+    },
+    "10136310": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60007 K01",
+        "preco": 699,
+        "precoPromo": 699,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/SyTDxDf/image.jpg",
+            "https://i.ibb.co/5Gw8khw/image.jpg"
+        ]
+    },
+    "10138342": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60011 G22",
+        "preco": 625,
+        "precoPromo": 625,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/FHJ4rnx/image.jpg",
+            "https://i.ibb.co/PjF7h81/image.jpg"
+        ]
+    },
+    "10134316": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60012 K02",
+        "preco": 665,
+        "precoPromo": 665,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/r7PM6Wv/image.jpg",
+            "https://i.ibb.co/94g5Hj2/image.jpg"
+        ]
+    },
+    "10133990": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60013 A01",
+        "preco": 659,
+        "precoPromo": 659,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/mHRjbYg/image.jpg",
+            "https://i.ibb.co/0m5CBBr/image.jpg"
+        ]
+    },
+    "10136408": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60013 G23",
+        "preco": 729,
+        "precoPromo": 729,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/Kx3N3tH/image.jpg",
+            "https://i.ibb.co/kKZcppZ/image.jpg"
+        ]
+    },
+    "10136400": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60018 G22",
+        "preco": 474,
+        "precoPromo": 474,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/j8wrWdQ/image.jpg",
+            "https://i.ibb.co/4WvtSQ9/image.jpg"
+        ]
+    },
+    "10136300": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60019 G22",
+        "preco": 699,
+        "precoPromo": 699,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kMyHRZz/image.jpg",
+            "https://i.ibb.co/CP8qR72/image.jpg"
+        ]
+    },
+    "10140817": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60023 A01",
+        "preco": 833,
+        "precoPromo": 833,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/b7jd9zB/image.jpg",
+            "https://i.ibb.co/7RgSg48/image.jpg"
+        ]
+    },
+    "10137241": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60033 A01",
+        "preco": 880,
+        "precoPromo": 880,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sKq5Prg/image.jpg",
+            "https://i.ibb.co/P6L5Bs4/image.jpg"
+        ]
+    },
+    "10137250": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60033 G21",
+        "preco": 880,
+        "precoPromo": 880,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/pPT826Y/image.jpg",
+            "https://i.ibb.co/bKnngrf/image.jpg"
+        ]
+    },
+    "10136474": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60033 G22",
+        "preco": 895,
+        "precoPromo": 895,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/jR6zf4V/image.jpg",
+            "https://i.ibb.co/L9Zj0nk/image.jpg"
+        ]
+    },
+    "10138952": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60034 A01",
+        "preco": 880,
+        "precoPromo": 880,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/gtjwSbc/image.jpg",
+            "https://i.ibb.co/p46hwLs/image.jpg"
+        ]
+    },
+    "10136311": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60035 D21",
+        "preco": 729,
+        "precoPromo": 729,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/sJmXzTk/image.jpg",
+            "https://i.ibb.co/GWy910g/image.jpg"
+        ]
+    },
+    "10136307": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60035 G21",
+        "preco": 729,
+        "precoPromo": 729,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/djNZpzV/image.jpg",
+            "https://i.ibb.co/dMjTm6X/image.jpg"
+        ]
+    },
+    "10137516": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60037 C01",
+        "preco": 691,
+        "precoPromo": 691,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/JzDgKF6/image.jpg",
+            "https://i.ibb.co/HBCjNHq/image.jpg"
+        ]
+    },
+    "10138343": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60038 G01",
+        "preco": 730,
+        "precoPromo": 730,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/J3jx1NG/image.jpg",
+            "https://i.ibb.co/8zhZjvM/image.jpg"
+        ]
+    },
+    "10137232": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60045 D01",
+        "preco": 719,
+        "precoPromo": 719,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/kygvgBv/image.jpg",
+            "https://i.ibb.co/rkt42WX/image.jpg"
+        ]
+    },
+    "10140313": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH60053 A03",
+        "preco": 810,
+        "precoPromo": 810,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/svKz8f4/image.jpg",
+            "https://i.ibb.co/MDfDcj7/image.jpg"
+        ]
+    },
+    "10140206": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Ana Hickmann",
+        "tipoDeCard": "Com Preço",
+        "modelo": "AH9325 G22",
+        "preco": 774,
+        "precoPromo": 774,
+        "wppDesc": "",
+        "imgs": [
+            "https://i.ibb.co/6vdY1vj/image.jpg",
+            "https://i.ibb.co/tLx3K2r/image.jpg"
+        ]
+    }
+}

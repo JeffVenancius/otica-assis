@@ -1,0 +1,392 @@
+{
+    "oslo 6": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 6",
+        "imgs": [
+					"https://i.ibb.co/Y4St9Z8q/0-7.jpg"
+        ]
+    },
+    "oslo 5": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 5",
+        "imgs": [
+					"https://i.ibb.co/cKRVWwdG/0-6.jpg"
+        ]
+    },
+    "oslo 3": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 3",
+        "imgs": [
+					"https://i.ibb.co/8L87F1VG/0-3.jpg"
+        ]
+    },
+    "oslo 2": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 2",
+        "imgs": [
+					"https://i.ibb.co/zHNqTYbS/0-2.jpg"
+        ]
+    },
+    "oslo 15": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 15",
+        "imgs": [
+					"https://i.ibb.co/rfwT4RDj/0-26.jpg"
+        ]
+    },
+    "oslo 12": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 12",
+        "imgs": [
+					"https://i.ibb.co/ycX1z5ZB/0-16.jpg"
+        ]
+    },
+    "oslo 11": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 11",
+        "imgs": [
+					"https://i.ibb.co/NgWZ435S/0-15.jpg"
+        ]
+    },
+    "oslo 24": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 24",
+        "imgs": [
+					"https://i.ibb.co/zWtB5MCZ/0-41.jpg"
+        ]
+    },
+    "oslo 22": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 22",
+        "imgs": [
+        "https://i.ibb.co/Y4St9Z8q/0-7.jpg"
+				]
+    },
+    "oslo 17": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 17",
+        "imgs": [
+					"https://i.ibb.co/0R23nqKp/0-30.jpg"
+				]
+    },
+    "oslo 16": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 16",
+        "imgs": [
+					"https://i.ibb.co/Y40RN0YW/0-29.jpg"
+				]
+    },
+    "oslo 9": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 9",
+        "imgs": [
+					"https://i.ibb.co/dJHqv0vr/0-13.jpg"
+				]
+    },
+    "oslo 8": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 8",
+        "imgs": [
+					"https://i.ibb.co/wrNxtsFv/0-9.jpg"
+				]
+    },
+    "oslo 7": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 8",
+        "imgs": [
+					"https://i.ibb.co/wrNxtsFv/0-9.jpg"
+				]
+    },
+    "oslo 4": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 4",
+        "imgs": [
+					"https://i.ibb.co/wFF0g2Ms/0-4.jpg"
+				]
+    },
+    "oslo 25": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 25",
+        "imgs": [
+					"https://i.ibb.co/tTgGBCqb/0-42.jpg"
+				]
+    },
+    "oslo 14": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 14",
+        "imgs": [
+					"https://i.ibb.co/wrNxtsFv/0-9.jpg"
+				]
+    },
+    "oslo 13": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 13",
+        "imgs": [
+					"https://i.ibb.co/13LZWG4/0-22.jpg"
+				]
+    },
+    "oslo 10": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 10",
+        "imgs": [
+					"https://i.ibb.co/BK6v7HKL/0-14.jpg"
+				]
+    },
+    "oslo 1": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 1",
+        "imgs": [
+					"https://i.ibb.co/CssTLpXD/0-1.jpg"
+				]
+    },
+    "oslo 27": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 27",
+        "imgs": [
+					"https://i.ibb.co/nsCR1SjJ/0-44.jpg"
+				]
+    },
+    "oslo 26": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 26",
+        "imgs": [
+					"https://i.ibb.co/4RJMsY2S/0-43.jpg"
+				]
+    },
+    "oslo 23": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 23",
+        "imgs": [
+					"https://i.ibb.co/XfPbzc2r/0-40.jpg"
+				]
+    },
+    "oslo 21": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 27",
+        "imgs": [
+					"https://i.ibb.co/dwkQMHvZ/0-36.jpg"
+				]
+    },
+    "oslo 20": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 20",
+        "imgs": [
+					"https://i.ibb.co/yBMtDxCf/0-35.jpg"
+				]
+    },
+    "oslo 18": {
+        "Tipo": "Óculos de Grau",
+        "Gênero": "Masculino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 18",
+        "imgs": [
+					"https://i.ibb.co/VckB1JJq/0-31.jpg"
+				]
+    },
+    "oslo 19": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Masculino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 18",
+        "imgs": [
+					"https://i.ibb.co/nqqrn3V5/0-34.jpg"
+				]
+    },
+    "oslo 30": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 30",
+        "imgs": [
+					"https://i.ibb.co/RpKCpG4S/0-47.jpg"
+				]
+    },
+    "oslo 29": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 29",
+        "imgs": [
+					"https://i.ibb.co/nsc19xbz/0-46.jpg"
+				]
+    },
+    "oslo 28": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Unissex",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 198,
+        "precoPromo": 198,
+        "wppDesc": "n° 28",
+        "imgs": [
+					"https://i.ibb.co/79s5vHL/0-45.jpg"
+				]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "oslo 6": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 6",
+        "imgs": [
+					"https://i.ibb.co/Y4St9Z8q/0-7.jpg"
+        ]
+    },
+    "oslo 5": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 5",
+        "imgs": [
+					"https://i.ibb.co/cKRVWwdG/0-6.jpg"
+        ]
+    },
+    "oslo 3": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 3",
+        "imgs": [
+					"https://i.ibb.co/8L87F1VG/0-3.jpg"
+        ]
+    },
+    "oslo 2": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 2",
+        "imgs": [
+					"https://i.ibb.co/zHNqTYbS/0-2.jpg"
+        ]
+    },
+    "oslo 15": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 15",
+        "imgs": [
+					"https://i.ibb.co/rfwT4RDj/0-26.jpg"
+        ]
+    },
+    "oslo 12": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 12",
+        "imgs": [
+					"https://i.ibb.co/ycX1z5ZB/0-16.jpg"
+        ]
+    },
+    "oslo 11": {
+        "Tipo": "Óculos de Sol",
+        "Gênero": "Feminino",
+        "marca": "Oslo",
+        "tipoDeCard": "Com Preço",
+        "modelo": "",
+        "preco": 249,
+        "precoPromo": 249,
+        "wppDesc": "n° 11",
+        "imgs": [
+					"https://i.ibb.co/NgWZ435S/0-15.jpg"
+        ]
+    }
+}
+
+

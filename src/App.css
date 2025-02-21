@@ -1,0 +1,28 @@
+a {
+	text-decoration: none;
+}
+
+button {
+	cursor: pointer;
+}
+
+/* Works on Firefox */
+* {
+  scrollbar-width: 32px;
+  scrollbar-color: #f16122 #fff;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 32px;
+}
+
+*::-webkit-scrollbar-track {
+  background: orange;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 20px;
+  border: 3px solid #f16122;
+}
