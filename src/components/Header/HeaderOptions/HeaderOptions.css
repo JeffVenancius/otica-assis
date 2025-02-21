@@ -90,7 +90,7 @@
 }
 
 @media (max-width: 480px) {
-	.header__options--first--active > .header__options--container {
+	.header__options--first--active > .header__options--container, .header__options:hover>.header__options--container--size--2, .header__options:hover>.header__options--container--size--3, .header__options:hover>.header__options--container--size--4 {
 		width: 60%;
 		height: 100vh;
 		top: 0;
