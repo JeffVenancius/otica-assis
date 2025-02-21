@@ -71,6 +71,7 @@ const Default = (props) => {
 
 	useEffect(() => {
 	const getSortedItems = () => {
+		console.log(totalItems.sort((a,b) => a["preco"] > b["preco"] == totalItems.sort((a,b) => a["preco"] < b["preco"])
 		if (order === "Menor Preço") return totalItems.sort((a,b) => a["preco"] > b["preco"])
 		if (order === "Maior Preço") return totalItems.sort((a,b) => a["preco"] < b["preco"])
 		return totalItems
@@ -85,7 +86,6 @@ const Default = (props) => {
 			<></>
 		)
 	}
-	console.log(totalItems[0])
 	return (
 		<>
 		<div className='title__cards' ref={topRef}>
