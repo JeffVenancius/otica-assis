@@ -78,14 +78,14 @@ const Default = (props) => {
 	setTotalItems(getSortedItems())
 	setPage(1)
 	},[order])
-		  
+	
 
 	if (!totalItems.length) {
 		return (
 			<></>
 		)
 	}
-
+	console.log(totalItems[0])
 	return (
 		<>
 		<div className='title__cards' ref={topRef}>
