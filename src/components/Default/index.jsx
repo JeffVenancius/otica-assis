@@ -80,7 +80,6 @@ const Default = (props) => {
 		)
 	}
 	console.log(order)
-	console.log(totalItems)
 	return (
 		<>
 		<div className='title__cards' ref={topRef}>
