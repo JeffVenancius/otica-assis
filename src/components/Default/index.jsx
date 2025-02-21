@@ -68,11 +68,17 @@ const Default = (props) => {
 
 	const startPg = Math.max(0, (page - 1) * itemsPerPage)
 	const endPg = Math.min(totalItems.length, startPg + itemsPerPage)
+
+	useEffect(() => {
 	const getSortedItems = () => {
 		if (order === "Menor Preço") return totalItems.sort((a,b) => a["preco"] > b["preco"])
 		if (order === "Maior Preço") return totalItems.sort((a,b) => a["preco"] < b["preco"])
 		return totalItems
 	}
+	setTotalItems(getSortedItems())
+	setPage(1)
+	},[order])
+		  
 
 	if (!totalItems.length) {
 		return (
@@ -95,7 +101,7 @@ const Default = (props) => {
 			</select>
 		</div>
 		<div className="cards__container">
-		{getSortedItems().slice(startPg, endPg).map(e => {
+		{totalItems.slice(startPg, endPg).map(e => {
 			return (
 				<Card 
 					key={"card__" + e["modelo"]}
