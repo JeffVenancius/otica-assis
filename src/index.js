@@ -22,6 +22,8 @@ import RayBan from './pages/RayBan'
 import Speedo from './pages/Speedo'
 import VictorHugo from './pages/VictorHugo'
 import Vogue from './pages/Vogue'
+import LentesCosmeticas from './pages/LentesCosmeticas'
+
 import DefaultHome from './pages/DefaultHome'
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
@@ -36,6 +38,10 @@ const router = createBrowserRouter([
 			{
 				path: "/",
 				element: <DefaultHome />
+			},
+			{
+				path: "lentes-cosmeticas",
+				element: <LentesCosmeticas/>
 			},
 			{
 				path: "oslo",
