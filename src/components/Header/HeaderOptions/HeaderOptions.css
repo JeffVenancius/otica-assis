@@ -38,20 +38,16 @@
 }
 
 .header__options:hover>.header__options--container--size--4 {
-	height: 160px;
+	height: 200px;
 }
 
 .header__options:hover>.header__options--container--size--3 {
+	height: 160px;
+}
+
+
+.header__options:hover>.header__options--container--size--2 {
 	height: 120px;
-}
-
-
-.header__options:hover>.header__options--container--size--2 {
-	height: 82px;
-}
-
-.header__options:hover>.header__options--container--size--2 {
-	height: 44px;
 }
 
 .header__buttons--first:hover {
