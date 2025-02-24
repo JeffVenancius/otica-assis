@@ -57,7 +57,7 @@ const Default = (props) => {
 				setTotalItems(currCards)
 			})
 	}, [])
-
+	console.log(currCards)
 	const changePage = (nextPage) => {
 		setPage(nextPage)
 	}
